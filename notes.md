@@ -23,6 +23,7 @@ git config --global http.proxy http://127.0.0.1:7890
 "editor.fontSize": 16,
 "editor.lineHeight": 1.8,
 
+```
 
 # markdown基础语法
 
